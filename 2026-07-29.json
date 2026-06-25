@@ -1,0 +1,62 @@
+{
+  "issueDate": "Wednesday, July 29, 2026",
+  "subjectLine": "The market can change across one county line",
+  "previewText": "Why local market context matters, a simple moving-box system, and a nearby farmers market.",
+  "themeIndex": 4,
+  "quickNote": {
+    "greeting": "Hey friends,",
+    "paragraphs": [
+      "We often talk about “the market” as though every neighborhood and county moves together. In reality, conditions can change quite a bit across a short drive.",
+      "That is one reason good real estate advice should be local and specific to the home, price range, and community involved.",
+      "This week’s quick comparison shows what I mean — and the homeowner tip may save you from opening twelve boxes to find one coffee maker."
+    ]
+  },
+  "market": {
+    "title": "Nearby counties are not moving identically",
+    "paragraphs": [
+      "In May 2026, active listings were up about 11.2% year over year in Gwinnett County. But nearby Barrow County was up about 50.3%, while Jackson County was up about 20.9%, according to Realtor.com.",
+      "Those differences matter. More listings can create more choices for buyers, but the effect on an individual home still depends on location, condition, price range, and nearby competition.",
+      "The lesson is not to make a decision from a national headline. Start with the numbers closest to the property you care about."
+    ],
+    "verificationNote": "Source: Realtor.com Economic Research county inventory data for May 2026, updated June 3, 2026."
+  },
+  "homeownerTip": {
+    "title": "Give every moving box a destination.",
+    "intro": "Whether you are moving soon or just organizing storage, label each box with three things:",
+    "items": [
+      "The room where it belongs",
+      "A short list of what is inside",
+      "A simple priority such as Open First, This Week, or Storage"
+    ],
+    "closing": "It takes a few extra seconds while packing and saves a surprising amount of time later. Keep one separate essentials box with medications, chargers, basic tools, and the coffee supplies."
+  },
+  "localEvent": {
+    "title": "Snellville Farmers Market",
+    "link": "https://www.snellville.org/events",
+    "intro": "For a nearby weekend outing, here is another Gwinnett market worth checking.",
+    "copy": "The Snellville Farmers Market is a community stop for seasonal produce, local foods, and small-business vendors near the Towne Green area.",
+    "tip": "Tip: Check the City of Snellville’s official events page for the current date, hours, location, vendors, and weather information."
+  },
+  "cartoon": {
+    "imageUrl": "https://res.cloudinary.com/agkgjldk/image/upload/v1782348939/gwinnett-newsletter/cartoons/2026-07-29-mystery-box.jpg",
+    "imageAlt": "A couple in a neat garage wondering what is inside one mystery moving box",
+    "caption": "“Good news: we labeled every box except the one we need.”",
+    "closing": "Moving has a remarkable sense of humor.",
+    "imagePrompt": "A family-friendly cartoon of a couple looking at one mystery moving box in a neat garage, with all boxes blank and no text in the artwork."
+  },
+  "quiz": {
+    "include": false,
+    "question": "",
+    "answers": [],
+    "cta": "",
+    "legalLine": ""
+  },
+  "footerImageIndex": 4,
+  "footerImages": [
+    "https://res.cloudinary.com/agkgjldk/image/upload/v1782347670/gwinnett-newsletter/footers/around-gwinnett-1.jpg",
+    "https://res.cloudinary.com/agkgjldk/image/upload/v1782347670/gwinnett-newsletter/footers/around-gwinnett-2.jpg",
+    "https://res.cloudinary.com/agkgjldk/image/upload/v1782347671/gwinnett-newsletter/footers/around-gwinnett-3.jpg",
+    "https://res.cloudinary.com/agkgjldk/image/upload/v1782347672/gwinnett-newsletter/footers/around-gwinnett-4.jpg",
+    "https://res.cloudinary.com/agkgjldk/image/upload/v1782347673/gwinnett-newsletter/footers/around-gwinnett-5.jpg"
+  ]
+}

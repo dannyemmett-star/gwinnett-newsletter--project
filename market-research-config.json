@@ -1,0 +1,65 @@
+{
+  "primaryCounty": {
+    "name": "Gwinnett County",
+    "state": "Georgia",
+    "priority": 1
+  },
+  "surroundingCounties": [
+    {
+      "name": "Barrow County",
+      "state": "Georgia",
+      "priority": 2
+    },
+    {
+      "name": "Walton County",
+      "state": "Georgia",
+      "priority": 2
+    },
+    {
+      "name": "Rockdale County",
+      "state": "Georgia",
+      "priority": 2
+    },
+    {
+      "name": "DeKalb County",
+      "state": "Georgia",
+      "priority": 2
+    },
+    {
+      "name": "Jackson County",
+      "state": "Georgia",
+      "priority": 2
+    }
+  ],
+  "sourcePriority": [
+    "Realtor.com Economic Research",
+    "Zillow Research",
+    "Redfin Data Center",
+    "Georgia REALTORS",
+    "FRED",
+    "U.S. Census Bureau",
+    "Official county and municipal sources"
+  ],
+  "preferredMetrics": [
+    "Active listing count",
+    "New listing count",
+    "Pending listing count",
+    "Closed sales when publicly available",
+    "Median listing price",
+    "Median sale price when publicly available",
+    "Median days on market",
+    "Price reductions",
+    "Inventory trend",
+    "Year-over-year change"
+  ],
+  "newsletterRules": [
+    "Lead with Gwinnett County whenever current comparable data is available.",
+    "Use surrounding-county data when it adds a useful contrast or is locally relevant.",
+    "Do not force all six counties into each weekly newsletter.",
+    "Clearly identify the county, reporting period, metric definition, and source.",
+    "Do not combine incompatible listing-price and sale-price metrics.",
+    "Label Atlanta metropolitan-area figures clearly when county-level data is unavailable.",
+    "Do not present Zillow estimates as appraisals or completed sale prices.",
+    "Use only aggregate public information and never expose client or confidential MLS data."
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "issueDate": "Wednesday, July 22, 2026",
+  "subjectLine": "What 44 days tells us about the market",
+  "previewText": "A practical reading of today’s market, an easy measuring tip, and a local weekend stop.",
+  "themeIndex": 3,
+  "quickNote": {
+    "greeting": "Hey friends,",
+    "paragraphs": [
+      "One thing I appreciate about good market information is that it helps replace guesswork with perspective.",
+      "A single number never tells the whole story, but it can help us ask better questions — especially when someone is deciding whether to buy, sell, or simply stay put for a while.",
+      "Here is one number worth understanding this week, along with a small home-project tip and something local to enjoy."
+    ]
+  },
+  "market": {
+    "title": "Homes are taking a little more time",
+    "paragraphs": [
+      "The median Gwinnett County listing spent 44 days on the market in May 2026, according to Realtor.com. That was about two days longer than one year earlier.",
+      "This does not mean homes are not selling. It means buyers have more time to compare options, and sellers may need to be patient and responsive to what the market is telling them.",
+      "Good presentation, realistic pricing, and a clear plan for the first few weeks on the market remain especially important."
+    ],
+    "verificationNote": "Source: Realtor.com Economic Research county inventory data for May 2026, updated June 3, 2026."
+  },
+  "homeownerTip": {
+    "title": "Measure before the furniture starts moving.",
+    "intro": "Before buying a large piece of furniture or rearranging a room, write down four quick measurements:",
+    "items": [
+      "The room’s usable wall space",
+      "Doorway and hallway widths",
+      "The furniture’s full width and depth",
+      "Clearance needed for drawers, doors, and walking paths"
+    ],
+    "closing": "A few minutes with a tape measure can save a delivery-day surprise — and possibly a scraped doorway."
+  },
+  "localEvent": {
+    "title": "Lawrenceville Farmers Market",
+    "link": "https://www.lawrencevillega.org/calendar.aspx",
+    "intro": "If you are looking for a relaxed local outing, here is one Gwinnett option to check.",
+    "copy": "Downtown Lawrenceville’s seasonal market is a pleasant way to browse local produce and goods while spending a little time around the historic downtown area.",
+    "tip": "Tip: Check the City of Lawrenceville’s official calendar for the current market date, time, location, parking, and weather updates."
+  },
+  "cartoon": {
+    "imageUrl": "https://res.cloudinary.com/agkgjldk/image/upload/v1782348938/gwinnett-newsletter/cartoons/2026-07-22-measuring-tape.jpg",
+    "imageAlt": "A couple laughing while one becomes tangled in a measuring tape",
+    "caption": "“The room is twelve feet wide. The tape measure is now part of the family.”",
+    "closing": "Some home projects build character before they build anything else.",
+    "imagePrompt": "A family-friendly cartoon of a couple measuring a living room while one is gently tangled in the tape measure, with no text in the artwork."
+  },
+  "quiz": {
+    "include": false,
+    "question": "",
+    "answers": [],
+    "cta": "",
+    "legalLine": ""
+  },
+  "footerImageIndex": 3,
+  "footerImages": [
+    "https://res.cloudinary.com/agkgjldk/image/upload/v1782347670/gwinnett-newsletter/footers/around-gwinnett-1.jpg",
+    "https://res.cloudinary.com/agkgjldk/image/upload/v1782347670/gwinnett-newsletter/footers/around-gwinnett-2.jpg",
+    "https://res.cloudinary.com/agkgjldk/image/upload/v1782347671/gwinnett-newsletter/footers/around-gwinnett-3.jpg",
+    "https://res.cloudinary.com/agkgjldk/image/upload/v1782347672/gwinnett-newsletter/footers/around-gwinnett-4.jpg",
+    "https://res.cloudinary.com/agkgjldk/image/upload/v1782347673/gwinnett-newsletter/footers/around-gwinnett-5.jpg"
+  ]
+}

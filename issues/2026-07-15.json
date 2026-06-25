@@ -1,0 +1,63 @@
+{
+  "issueDate": "Wednesday, July 15, 2026",
+  "subjectLine": "More choices for Gwinnett buyers",
+  "previewText": "Fresh Gwinnett market numbers, a five-minute drainage check, and a Saturday farmers market.",
+  "themeIndex": 2,
+  "quickNote": {
+    "greeting": "Hey friends,",
+    "paragraphs": [
+      "We are right in the middle of a Georgia summer, when a sunny afternoon can turn into a heavy downpour before dinner.",
+      "This week I have one useful market number, a quick check that can help protect your home after a storm, and a local Saturday outing.",
+      "Nothing complicated — just a few things worth knowing and sharing."
+    ]
+  },
+  "market": {
+    "title": "Gwinnett buyers have more choices",
+    "paragraphs": [
+      "Realtor.com reported 3,408 active listings in Gwinnett County during May 2026. That was about 11.2% more than May of last year.",
+      "More inventory gives buyers a little more room to compare condition, location, and price instead of feeling pressure to jump at the first home they see.",
+      "For sellers, the message is simple: competition matters. A clean, well-prepared home with a sensible price is more likely to earn attention."
+    ],
+    "verificationNote": "Source: Realtor.com Economic Research county inventory data for May 2026, updated June 3, 2026."
+  },
+  "homeownerTip": {
+    "title": "Watch where the rainwater goes.",
+    "intro": "After the next good rain, take five minutes to walk around the outside of your home:",
+    "items": [
+      "Are the gutters overflowing?",
+      "Do downspouts carry water several feet away from the foundation?",
+      "Is water collecting beside the house or across a walkway?",
+      "Are leaves or debris blocking a drain?"
+    ],
+    "closing": "A small drainage adjustment can sometimes prevent a much larger moisture problem. If water keeps collecting near the home, ask a qualified professional to evaluate it."
+  },
+  "localEvent": {
+    "title": "Suwanee Farmers Market",
+    "link": "https://www.suwanee.com/engage/events",
+    "intro": "If you are looking for something local this weekend, here is one Gwinnett option worth checking out.",
+    "copy": "The Suwanee Farmers Market brings local growers and makers together at Town Center. It is an easy Saturday-morning stop for seasonal produce, locally made products, and a walk around the park.",
+    "tip": "Tip: Check the City of Suwanee’s official events page for the current date, hours, vendor information, and weather updates before heading out."
+  },
+  "cartoon": {
+    "imageUrl": "https://res.cloudinary.com/agkgjldk/image/upload/v1782348937/gwinnett-newsletter/cartoons/2026-07-15-downspout.jpg",
+    "imageAlt": "A couple watching a downspout pour rainwater into a tiny flowerpot",
+    "caption": "“Technically, the water is going somewhere.”",
+    "closing": "The foundation may have preferred a slightly better plan.",
+    "imagePrompt": "A family-friendly cartoon of a summer downspout draining into a comically tiny flowerpot, with no text in the artwork."
+  },
+  "quiz": {
+    "include": false,
+    "question": "",
+    "answers": [],
+    "cta": "",
+    "legalLine": ""
+  },
+  "footerImageIndex": 2,
+  "footerImages": [
+    "https://res.cloudinary.com/agkgjldk/image/upload/v1782347670/gwinnett-newsletter/footers/around-gwinnett-1.jpg",
+    "https://res.cloudinary.com/agkgjldk/image/upload/v1782347670/gwinnett-newsletter/footers/around-gwinnett-2.jpg",
+    "https://res.cloudinary.com/agkgjldk/image/upload/v1782347671/gwinnett-newsletter/footers/around-gwinnett-3.jpg",
+    "https://res.cloudinary.com/agkgjldk/image/upload/v1782347672/gwinnett-newsletter/footers/around-gwinnett-4.jpg",
+    "https://res.cloudinary.com/agkgjldk/image/upload/v1782347673/gwinnett-newsletter/footers/around-gwinnett-5.jpg"
+  ]
+}
